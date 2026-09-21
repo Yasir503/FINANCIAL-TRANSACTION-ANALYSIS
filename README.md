@@ -15,7 +15,3 @@ customer behavior, and key business insights.
 ## Dashboard
 
 [View Interactive Dashboard](https://knustedugh-my.sharepoint.com/:u:/g/personal/yamin1_st_knust_edu_gh/IQClgvIjPv1BSriw-15Ft72jARj93MhCg2agV_NVQFpAqY0?e=PPg5MM)
-
-## Dashboard Preview
-
-![Dashboard](screenshots/dashboard.png)
